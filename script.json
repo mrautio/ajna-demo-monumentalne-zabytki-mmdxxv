@@ -1,0 +1,13 @@
+{
+    "graphics": {
+        "clearColor": {
+            "a": 0.0,
+            "b": 0.75,
+            "g": 0.75,
+            "r": 0.82
+        },
+        "model": {"generateNormals":false}
+    },
+    "beatsPerMinute": 120,
+    "rowsPerBeat": 8
+}
